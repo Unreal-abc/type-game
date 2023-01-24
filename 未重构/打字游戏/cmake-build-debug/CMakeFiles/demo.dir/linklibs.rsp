@@ -1,0 +1,1 @@
+  -LC:/Users/caigou/Desktop/C__GAM~1/Game/./SDL2/lib  -LC:/Users/caigou/Desktop/C__GAM~1/Game/./SDL2_I~1/lib  -LC:/Users/caigou/Desktop/C__GAM~1/Game/./SDL2_M~1/lib  -L"C:/Users/caigou/Desktop/C++ GameProject/Game/./SDL2_ttf/lib"  -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

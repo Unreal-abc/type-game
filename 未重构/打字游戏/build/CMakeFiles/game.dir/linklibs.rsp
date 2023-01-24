@@ -1,0 +1,1 @@
+  -LC:/Users/caigou/Desktop/C__GAM~1/打字游戏/./SDL2/x86/lib  -LC:/Users/caigou/Desktop/C__GAM~1/打字游戏/./SDL2_M~1/x86/lib  -lSDL2 -lSDL2_mixer -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

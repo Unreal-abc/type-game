@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/caigou/Desktop/C++ GameProject/打字游戏/build",
+  "command": "C:\\SoftWare\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\game.dir\\src\\Game.cpp.obj -c \"C:\\Users\\caigou\\Desktop\\C++ GameProject\\打字游戏\\src\\Game.cpp\"",
+  "file": "C:/Users/caigou/Desktop/C++ GameProject/打字游戏/src/Game.cpp"
+}
+]

@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/SoftWare/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/SoftWare/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/SoftWare/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\caigou\Desktop\type game" -B "C:\Users\caigou\Desktop\type game\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/caigou/Desktop/type game/cmake-build-debug
